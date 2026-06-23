@@ -52,11 +52,6 @@ npm run dev
 
 Open your browser and navigate to `http://localhost:5173/` (or the URL provided in your terminal) to view the application.
 
-## 🎨 Design
 
-The original UI/UX design for this project was created in Figma. You can view the original design file here:
-[FinanSmart Mobile Version Figma Design](https://www.figma.com/design/J3mQwiqg0zUBQmjaqox9aC/FinanSmart-Mobile-Version)
-
-## 📄 License
 
 This project is open-source and available under the MIT License.
